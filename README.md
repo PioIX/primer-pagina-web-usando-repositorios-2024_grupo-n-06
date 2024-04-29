@@ -15,7 +15,7 @@ El objetivo de esta parte del tp es que los integrantes del grupo apliquen el wo
 
 [borrar esto y personalizar el readme con sus datos]
 
-## Grupo Nº: 99
+## Grupo Nº: 06
 ## Integrantes: 
 * Lucas Silveira
 * Franco Prestia
